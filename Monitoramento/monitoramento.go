@@ -28,7 +28,7 @@ func escolhaOpcao() {
 	switch opcao {
 	case "1":
 		fmt.Println("Monitorando...")
-
+		monitoramentoSites()
 	case "2":
 		fmt.Println("Verificando Logs...")
 	case "0":
@@ -49,7 +49,12 @@ func Exibicao() {
 }
 
 func monitoramentoSites() {
-
+	sites := lerSites()
+	for key := 0; key < 1; key++ {
+		for key, value := range sites {
+			fmt.Println("Testando site", key, ":", value)
+		}
+	}
 }
 
 func lerSites() []string {
