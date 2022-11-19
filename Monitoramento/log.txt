@@ -1,0 +1,5 @@
+11-18-2022 21:28:04 - https://www.alura.com.br- Online: true
+11-18-2022 21:28:05 - https://amazon.com.br- Online: true
+11-18-2022 21:28:05 - https://random-status-code.herokuapp.com- Online: true
+11-18-2022 21:28:06 - https://www.casadocodigo.com.br- Online: true
+11-18-2022 21:28:06 - https://www.oi.com.br- Online: true
